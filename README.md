@@ -14,10 +14,10 @@
 ## Directory Structure
 ***project_root/***   
 &nbsp;&nbsp;&nbsp; - **data/**    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - *anchor/*        Anchor images (collected via webcam)      
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - *positive/*      Positive images (same person)     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - *negative/*      Negative images (from LFW dataset)     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - *anchor/*        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anchor images (collected via webcam)      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - *positive/*      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Positive images (same person)     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - *negative/*      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Negative images (from LFW dataset)     
 
 &nbsp;&nbsp;&nbsp; - **application_data/**     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - *input_image/*           Real-time input image captured for verification      
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - *verification_images/*   Stored reference images to compare with        
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - *input_image/*          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Real-time input image captured for verification      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - *verification_images/*  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stored reference images to compare with        
