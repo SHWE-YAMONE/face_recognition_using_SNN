@@ -12,12 +12,12 @@
 **Evaluation:** Precision, Recall, Detection Threshold, Verification Therehold   
 
 ## Directory Structure
-*** project_root/ ***
-&nbsp;&nbsp;&nbsp; - **data/**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - * *anchor/* *
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - * *positive/* *
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - * *negative/* *
+*** project_root/ ***   
+&nbsp;&nbsp;&nbsp; - **data/**    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - * *anchor/* *    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - * *positive/* *    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - * *negative/* *    
 
-&nbsp;&nbsp;&nbsp; - **application_data/**
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - * *input_image/* *
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - * *verification_images/* *
+&nbsp;&nbsp;&nbsp; - **application_data/**     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - * *input_image/* *    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - * *verification_images/* *    
