@@ -23,9 +23,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - *verification_images/*  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stored reference images to compare with        
 
 
-## Model Development Flowchart
-![Alt text](model_development.jpg)     
+## 📊 Flowchart
+![Alt text](flowchart.jpg)     
 
-## Frontend Flowchart
-![Alt text](frontend.jpg)
 
