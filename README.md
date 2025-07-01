@@ -24,6 +24,6 @@
 
 
 ## 📊 Flowchart
-![Alt text](flowchart.jpg)     
+![Alt text](flowchart.png)     
 
 
