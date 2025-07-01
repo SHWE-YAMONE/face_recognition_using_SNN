@@ -21,3 +21,11 @@
 &nbsp;&nbsp;&nbsp; - **application_data/**     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - *input_image/*          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Real-time input image captured for verification      
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - *verification_images/*  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stored reference images to compare with        
+
+
+## Model Development Flowchart
+![Alt text](model_development.png)     
+
+## Frontend Flowchart
+![Alt text](frontend.png)
+
