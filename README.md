@@ -24,8 +24,8 @@
 
 
 ## Model Development Flowchart
-![Alt text](model_development.png)     
+![Alt text](model_development.jpg)     
 
 ## Frontend Flowchart
-![Alt text](frontend.png)
+![Alt text](frontend.jpg)
 
